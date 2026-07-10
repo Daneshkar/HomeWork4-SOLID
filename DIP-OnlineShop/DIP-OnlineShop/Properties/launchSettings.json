@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DIP-OnlineShop": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
